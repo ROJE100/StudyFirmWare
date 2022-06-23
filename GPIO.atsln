@@ -9,6 +9,10 @@ Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LCD", "LCD\LCD.cproj", "{AC
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TimerCount(16)", "TimerCount(16)\TimerCount(16).cproj", "{FAA64505-9A0B-46AE-9A35-9A650146C728}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Motor", "Motor\Motor.cproj", "{5A8E1449-2432-4687-9E96-40C82CA5BD10}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "KeyPad", "KeyPad\KeyPad.cproj", "{E3575451-FA44-4887-B496-899D563A0BC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -27,6 +31,14 @@ Global
 		{FAA64505-9A0B-46AE-9A35-9A650146C728}.Debug|AVR.Build.0 = Debug|AVR
 		{FAA64505-9A0B-46AE-9A35-9A650146C728}.Release|AVR.ActiveCfg = Release|AVR
 		{FAA64505-9A0B-46AE-9A35-9A650146C728}.Release|AVR.Build.0 = Release|AVR
+		{5A8E1449-2432-4687-9E96-40C82CA5BD10}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5A8E1449-2432-4687-9E96-40C82CA5BD10}.Debug|AVR.Build.0 = Debug|AVR
+		{5A8E1449-2432-4687-9E96-40C82CA5BD10}.Release|AVR.ActiveCfg = Release|AVR
+		{5A8E1449-2432-4687-9E96-40C82CA5BD10}.Release|AVR.Build.0 = Release|AVR
+		{E3575451-FA44-4887-B496-899D563A0BC8}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E3575451-FA44-4887-B496-899D563A0BC8}.Debug|AVR.Build.0 = Debug|AVR
+		{E3575451-FA44-4887-B496-899D563A0BC8}.Release|AVR.ActiveCfg = Release|AVR
+		{E3575451-FA44-4887-B496-899D563A0BC8}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

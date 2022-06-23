@@ -407,5 +407,5 @@ END GROUP
 
 .debug_macro
  *(.debug_macro)
-OUTPUT(TimerCount(16).elf elf32-avr)
+OUTPUT(Motor.elf elf32-avr)
 LOAD linker stubs
